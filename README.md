@@ -2,9 +2,9 @@
 This is a thesis repository for Camilo Daza focused on statistical analysis of roles. It contains research documentation, data analysis code, datasets, and survey materials related to the thesis work.
 
 # Stack
-Language(s): Python (via Jupyter Notebooks)
-Format: Jupyter Notebooks for data analysis and statistical computations
-Data format: Excel spreadsheets (.xlsx) for raw and processed data
+- Language(s): Python (via Jupyter Notebooks)
+- Format: Jupyter Notebooks for data analysis and statistical computations
+- Data format: Excel spreadsheets (.xlsx) for raw and processed data
 
 # How it's organized
 ## Code
@@ -16,7 +16,7 @@ Data format: Excel spreadsheets (.xlsx) for raw and processed data
 06. Aurora y Kelly/           Additional code contributions
 07. Encuesta_English.pdf          Survey instrument (English version)
 
-How it fits together: The repository follows a typical academic thesis structure. Raw and processed data in Excel files (Data_Final.xlsx, dataFinal.xlsx) feed into Jupyter notebooks for statistical analysis. The thesis proposal and working drafts document the research methodology, while the final document captures the completed work. The survey PDF provides the research instrument used to gather the data being analyzed.
+How it fits together: The repository follows an academic thesis structure. Raw and processed data in Excel files (Data_Final.xlsx, dataFinal.xlsx) feed into Jupyter notebooks for statistical analysis. The thesis proposal and working drafts document the research methodology, while the final document captures the completed work. The survey PDF provides the research instrument used to gather the data being analyzed.
 
 # How to run it
 The main analysis is in 04. Codigo Final Tesis/GroupAnalysis_4.ipynb. To reproduce:
