@@ -16,7 +16,7 @@ Data format: Excel spreadsheets (.xlsx) for raw and processed data
 Aurora y Kelly/           Additional code contributions
 Encuesta_English.pdf          Survey instrument (English version)
 
-## How it fits together: The repository follows a typical academic thesis structure. Raw and processed data in Excel files (Data_Final.xlsx, dataFinal.xlsx) feed into Jupyter notebooks for statistical analysis. The thesis proposal and working drafts document the research methodology, while the final document captures the completed work. The survey PDF provides the research instrument used to gather the data being analyzed.
+How it fits together: The repository follows a typical academic thesis structure. Raw and processed data in Excel files (Data_Final.xlsx, dataFinal.xlsx) feed into Jupyter notebooks for statistical analysis. The thesis proposal and working drafts document the research methodology, while the final document captures the completed work. The survey PDF provides the research instrument used to gather the data being analyzed.
 
 # How to run it
 The main analysis is in 04. Codigo Final Tesis/GroupAnalysis_4.ipynb. To reproduce:
