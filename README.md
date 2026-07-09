@@ -13,8 +13,8 @@ Data format: Excel spreadsheets (.xlsx) for raw and processed data
 03. WIP/                      Work in progress - thesis drafts, data files, proposal
 04. Codigo Final Tesis/       Final analysis code (GroupAnalysis_4.ipynb, Data_Final.xlsx)
 05. Código Adicional 
-Aurora y Kelly/           Additional code contributions
-Encuesta_English.pdf          Survey instrument (English version)
+06. Aurora y Kelly/           Additional code contributions
+07. Encuesta_English.pdf          Survey instrument (English version)
 
 How it fits together: The repository follows a typical academic thesis structure. Raw and processed data in Excel files (Data_Final.xlsx, dataFinal.xlsx) feed into Jupyter notebooks for statistical analysis. The thesis proposal and working drafts document the research methodology, while the final document captures the completed work. The survey PDF provides the research instrument used to gather the data being analyzed.
 
